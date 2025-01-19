@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jan 19 14:25:11 2025
+
+@author: USER
+"""
+
+numpy
+pandas
+scikit-learn
+streamlit
